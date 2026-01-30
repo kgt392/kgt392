@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on MERN stack, backend APIs & cloud basics  <br>👯 Open to collaborating on real-world full-stack projects  <br>🤝 Looking for help with system design & DevOps  <br>🌱 Learning PostgreSQL, AWS, Docker & DSA  <br>💬 Ask me about MERN, REST APIs & Git  <br>⚡ Fun fact: I love debugging more than coding
+🔭 Working on MERN stack, backend APIs & cloud basics  <br>👯 Open to collaborating on real-world full-stack projects  <br>🤝 Looking for help with system design & DevOps  <br>🌱 Learning PostgreSQL, AWS, Docker & DSA  <br>💬 Ask me about MERN, REST APIs & Git  <br>⚡ Fun fact: I love debugging more than coding.
 
 
 ## 🌐 Socials:
